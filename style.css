@@ -1,0 +1,61 @@
+body {
+  background-image: url("http://3.bp.blogspot.com/-3dcEpPrslL4/UGog6t0WmjI/AAAAAAAAIVQ/GK2naFd4Jlc/s640/davincisketcheagleandboatitsjustlife.jpg");
+  margin-top: 1em;
+}
+
+.text-primary {
+  font-family: Lobster;
+  color: #663100;
+}
+
+.jumbotron {
+  background-color: #fff2e6;
+}
+
+aside {
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  margin: 1em;
+}
+
+li {
+  padding-bottom: 1em;
+  list-style-type: none;
+  text-align: justify;
+  margin-left: -3em;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: -1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Lobster, "Lucida Grande", Verdana, Lucida, Arial, Helvetica, sans-serif;
+	margin-top: 0em;
+	margin-bottom: 1em;
+}
+
+strong {
+	display: block;
+	font-weight: bold;
+	font-style: normal;
+}
+
+#quote2 {
+  padding: 1em;
+}
+
+.thumbnail {
+  padding: 1em;
+}
+
+.row {
+  padding: 1em;
+}
